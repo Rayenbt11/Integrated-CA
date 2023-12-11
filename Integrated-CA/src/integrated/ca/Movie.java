@@ -6,7 +6,7 @@ package integrated.ca;
 
 /**
  *
- * @author rayen
+ * @author rayen Bentemessek 2021378
  */
 public class Movie {
 
